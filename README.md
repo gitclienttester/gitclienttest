@@ -1,4 +1,0 @@
-gitclienttest
-=============
-
-Git client test
