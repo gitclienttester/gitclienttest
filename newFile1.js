@@ -1,1 +1,0 @@
-var newText= 3;
