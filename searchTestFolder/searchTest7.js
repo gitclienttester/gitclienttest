@@ -1,0 +1,1 @@
+var newText= new text in file searchTest0.js
