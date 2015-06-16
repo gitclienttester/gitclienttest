@@ -1,1 +1,1 @@
-var newFile = /"This is new file Tomer.E/"
+var newFile = /"This is new file Tomer/"
