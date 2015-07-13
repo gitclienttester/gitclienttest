@@ -2,4 +2,12 @@ gitclienttest-1
 =============
 
 Git client test
-Tomer Epst
+<<<<<<< HEAD
+<<<<<<< HEAD
+Epstein Tomer
+=======
+Tomer Epstein
+>>>>>>> stash
+=======
+Tomer Epstein
+>>>>>>> stash
